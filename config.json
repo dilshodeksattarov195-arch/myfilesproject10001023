@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userspdate",
+        "uuid": 2947263,
+        "checksum": "fuserj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
